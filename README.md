@@ -6,7 +6,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,github,vscode,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,github,vscode,&perline=14" />
 </div>
 
 ##
